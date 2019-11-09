@@ -1,0 +1,39 @@
+﻿@using ViewDataPass.Controllers;
+@model  List<Student>
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewBagPass</title>
+</head>
+<body>
+    <label>ViewBagPass:</label>@foreach (var item in ViewBag.data)
+    {
+        <h5>
+            @item.ID
+        </h5>
+    }
+    <br />
+    <label>ViewData:</label>@foreach (var item in (List<Student>)ViewData["list"])
+    {
+        <h5>
+            @item.Name
+        </h5>
+    }<br />
+    <label>Model:</label>@foreach (var item in Model)
+    {
+        <h5>
+            @item.Name
+        </h5>
+    }<br />
+    @ViewData["User"]<br />
+    <label>TempData:@TempData["temp"]</label><h5></h5><br />
+    <a href="/Home/Index">获取tempdata数据</a>
+</body>
+</html>
