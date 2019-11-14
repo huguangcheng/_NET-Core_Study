@@ -1,0 +1,7 @@
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\bin\Debug\netcoreapp3.0\IoC_DI.IRepository.deps.json
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\bin\Debug\netcoreapp3.0\IoC_DI.IRepository.dll
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\bin\Debug\netcoreapp3.0\IoC_DI.IRepository.pdb
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\obj\Debug\netcoreapp3.0\IoC_DI.IRepository.AssemblyInfoInputs.cache
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\obj\Debug\netcoreapp3.0\IoC_DI.IRepository.AssemblyInfo.cs
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\obj\Debug\netcoreapp3.0\IoC_DI.IRepository.dll
+C:\Users\EDZ\Desktop\IoC_DI\IoC_DI.IRepository\obj\Debug\netcoreapp3.0\IoC_DI.IRepository.pdb

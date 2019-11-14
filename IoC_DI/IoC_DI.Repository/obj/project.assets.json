@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IoC_DI.IRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/IoC_DI.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IoC_DI.IRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoC_DI.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../IoC_DI.IRepository/IoC_DI.IRepository.csproj",
+      "msbuildProject": "../IoC_DI.IRepository/IoC_DI.IRepository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "IoC_DI.IRepository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\EDZ\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.Repository\\IoC_DI.Repository.csproj",
+      "projectName": "IoC_DI.Repository",
+      "projectPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.Repository\\IoC_DI.Repository.csproj",
+      "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj": {
+              "projectPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

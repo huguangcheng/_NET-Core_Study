@@ -1,0 +1,23 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:32870",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IoC_DI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      //"launchUrl": "weatherforecast",   //启动的路径
+      "launchUrl": "api/Default",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

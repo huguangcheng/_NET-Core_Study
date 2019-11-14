@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IoC_DI.IRepository/1.0.0": {
+        "runtime": {
+          "IoC_DI.IRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoC_DI.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
