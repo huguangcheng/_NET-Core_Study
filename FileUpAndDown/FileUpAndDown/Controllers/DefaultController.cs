@@ -29,23 +29,24 @@ namespace FileUpAndDown.Controllers
             return File("~/Content/test.mp3","audio/mp3");
         }
         //点击按钮下载文件
-        public ActionResult Upload()
-        {
-            string fileName = "快乐之歌.mp3";
-            //Directory.GetCurrentDirectory()
-            string filePath = Path.Combine(AppContext.BaseDirectory,"Content/test.mp3");
+        //public ActionResult Upload()
+        //{
+        //    string fileName = "快乐之歌.mp3";
+        //    //Directory.GetCurrentDirectory()
+        //    string filePath = Path.Combine(AppContext.BaseDirectory,"Content/test.mp3");
 
-            //以字符流的方式下载文件
-            FileStream fs = new FileStream(filePath,FileMode.Open);//通关文件流打开文件，参数是文件的路径，文件模型的打开
-            //byte[] bytes = new byte[(int)fs.Length];
-            //fs.Read(bytes, 0, bytes.Length);
-            //fs.Close();
-            //.*（ 二进制流，不知道下载文件类型） application/octet-stream
-            //Response.ContentType = "application/octet-stream";
-            //return File
+        //    //以字符流的方式下载文件
+        //    FileStream fs = new FileStream(filePath,FileMode.Open);//通关文件流打开文件，参数是文件的路径，文件模型的打开
+        //    //byte[] bytes = new byte[(int)fs.Length];
+        //    //fs.Read(bytes, 0, bytes.Length);
+        //    //fs.Close();
+        //    //.*（ 二进制流，不知道下载文件类型） application/octet-stream
+        //    //Response.ContentType = "application/octet-stream";
+        //    //return File
 
 
-        }
+
+        //}
 
     }
 }
