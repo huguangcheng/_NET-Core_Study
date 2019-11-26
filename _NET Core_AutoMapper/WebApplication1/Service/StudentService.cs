@@ -2,6 +2,8 @@
 using System;
 using Model;
 using AutoMapper;
+using System.Collections.Generic;
+
 namespace Service
 {
     public class StudentService : IStudent
@@ -18,11 +20,17 @@ namespace Service
             return 97;
         }
 
-        public StudentView getStudentInfo()
+        public List<StudentView> getStudentInfo()
         {
             Student source = new Student() { Name="张国荣",Age=18};
-            StudentView destination = new StudentView();
+
+
+            List<StudentView> destination = new List<StudentView>();
+
+
+
             _mapper.Map(source, destination);
+
             return destination;
         }
     }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\net学习\\Studying\\WebApplication1\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\net学习\\Studying\\WebApplication1\\Model\\Model.csproj",
+      "projectPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
-      "outputPath": "D:\\net学习\\Studying\\WebApplication1\\Model\\obj\\",
+      "outputPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

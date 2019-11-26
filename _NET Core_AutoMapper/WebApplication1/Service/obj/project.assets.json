@@ -1504,11 +1504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\net学习\\Studying\\WebApplication1\\Service\\Service.csproj",
+      "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\net学习\\Studying\\WebApplication1\\Service\\Service.csproj",
+      "projectPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
-      "outputPath": "D:\\net学习\\Studying\\WebApplication1\\Service\\obj\\",
+      "outputPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1527,11 +1527,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\net学习\\Studying\\WebApplication1\\IService\\IService.csproj": {
-              "projectPath": "D:\\net学习\\Studying\\WebApplication1\\IService\\IService.csproj"
+            "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\IService\\IService.csproj": {
+              "projectPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\IService\\IService.csproj"
             },
-            "D:\\net学习\\Studying\\WebApplication1\\Model\\Model.csproj": {
-              "projectPath": "D:\\net学习\\Studying\\WebApplication1\\Model\\Model.csproj"
+            "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Model\\Model.csproj": {
+              "projectPath": "D:\\net学习\\_NET-Core_Study\\_NET Core_AutoMapper\\WebApplication1\\Model\\Model.csproj"
             }
           }
         }
@@ -1561,10 +1561,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
