@@ -3,7 +3,7 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:61460",
+      "applicationUrl": "http://localhost:40580",
       "sslPort": 0
     }
   },
@@ -11,8 +11,8 @@
     "FileUpAndDown": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "default/index",
-      "applicationUrl": "http://localhost:5000",
+      "applicationUrl": "http://localhost:9001",
+      "launchUrl": "Default/Index",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

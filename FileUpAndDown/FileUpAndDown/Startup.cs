@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Util;
 
 namespace FileUpAndDown
 {
@@ -15,6 +16,7 @@ namespace FileUpAndDown
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            FileUpAndDownConfig.InitConfig(configuration);
         }
 
         public IConfiguration Configuration { get; }
@@ -23,6 +25,7 @@ namespace FileUpAndDown
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,7 +47,9 @@ namespace FileUpAndDown
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Default}/{action=Index}/{id?}");
             });
         }
     }
