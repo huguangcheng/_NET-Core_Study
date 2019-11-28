@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\LogDemo\\Student.Util\\Student.Util.csproj": {}
+  },
+  "projects": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\LogDemo\\Student.Util\\Student.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\LogDemo\\Student.Util\\Student.Util.csproj",
+        "projectName": "Student.Util",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\LogDemo\\Student.Util\\Student.Util.csproj",
+        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\LogDemo\\Student.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

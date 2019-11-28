@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {}
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {}
   },
   "projects": {
-    "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
         "projectName": "FileUpAndDown",
-        "projectPath": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\FileUpAndDown\\obj\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\Util.csproj": {
-                "projectPath": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\Util.csproj"
+              "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\Util.csproj": {
+                "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\Util.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\Util.csproj": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\Util.csproj",
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\Util.csproj",
         "projectName": "Util",
-        "projectPath": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\Util.csproj",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\Util.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\学习11.26\\FileUpAndDown\\Util\\obj\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

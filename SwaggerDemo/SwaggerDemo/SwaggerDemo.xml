@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.Controllers.DefaultController.GetName(System.Int32)">
+            <summary>
+            通过id查询学生的姓名
+            </summary>
+            <param name="id">需要查询的学生的id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,8 @@
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\bin\Debug\netcoreapp3.0\Student.Util.deps.json
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\bin\Debug\netcoreapp3.0\Student.Util.dll
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\obj\Debug\netcoreapp3.0\Student.Util.AssemblyInfoInputs.cache
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\obj\Debug\netcoreapp3.0\Student.Util.AssemblyInfo.cs
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\bin\Debug\netcoreapp3.0\Student.Util.pdb
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\obj\Debug\netcoreapp3.0\Student.Util.csprojAssemblyReference.cache
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\obj\Debug\netcoreapp3.0\Student.Util.dll
+D:\2019_hgc\github\_NET-Core_Study\LogDemo\Student.Util\obj\Debug\netcoreapp3.0\Student.Util.pdb
