@@ -22,3 +22,11 @@ D:\2019_hgc\学习11.26\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.Assembly
 D:\2019_hgc\学习11.26\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfo.cs
 D:\2019_hgc\学习11.26\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.dll
 D:\2019_hgc\学习11.26\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.pdb
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\bin\Debug\netcoreapp3.0\Util.deps.json
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\bin\Debug\netcoreapp3.0\Util.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\bin\Debug\netcoreapp3.0\Util.pdb
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.csprojAssemblyReference.cache
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfoInputs.cache
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfo.cs
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\Util\obj\Debug\netcoreapp3.0\Util.pdb
