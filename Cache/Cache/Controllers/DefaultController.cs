@@ -13,19 +13,7 @@ namespace Cache.Controllers
     {
         public int testexception(int a)
         {
-            try
-            {
                 return a / 0;
-            }
-            catch (Exception ex)
-            {
-
-                throw;
-            }
-            finally 
-            {
-                
-            }
         }
     }
 }
