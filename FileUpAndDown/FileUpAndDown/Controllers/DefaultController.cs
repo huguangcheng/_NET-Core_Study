@@ -12,6 +12,12 @@ namespace FileUpAndDown.Controllers
 {
     //[Controller]
     //[Route("[Controller]/[Action]")]
+    //[Route("aaa/[Action]")]
+
+        //mvc  中，如果控制器需要别名，需要加上controller和route 
+        //用以覆盖掉默认的路由配置
+
+        //api中则不需要，api直接在特性中配
     public class DefaultController : Controller
     {
         public IActionResult Index()
@@ -19,13 +25,12 @@ namespace FileUpAndDown.Controllers
             return View();
         }
 
-
         public ActionResult DownLoad()
         {
             //AppContext.BaseDirectory 是在下面下bin文件下下的netcore
             //string filePath = Path.Combine(AppContext.BaseDirectory, "Content/test.jpg");
-            string filePath = "~/Content/test.jpg";
-            return File(filePath, "image/jpeg","heh.jpg");
+            string filePath = "~/Content/快乐之歌.MP3";
+            return File(filePath, "audio/mp3","heh.mp3");
 
         }
 

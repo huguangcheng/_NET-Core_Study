@@ -8044,11 +8044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileAPI\\FileAPI.csproj",
+      "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
       "projectName": "FileAPI",
-      "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileAPI\\FileAPI.csproj",
+      "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
       "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileAPI\\obj\\",
+      "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

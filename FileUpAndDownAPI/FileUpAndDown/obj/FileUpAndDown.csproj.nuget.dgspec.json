@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {}
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileUpAndDown\\FileUpAndDown.csproj": {}
   },
   "projects": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileUpAndDown\\FileUpAndDown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileUpAndDown\\FileUpAndDown.csproj",
         "projectName": "FileUpAndDown",
-        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\FileUpAndDown.csproj",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileUpAndDown\\FileUpAndDown.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDown\\FileUpAndDown\\obj\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileUpAndDown\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
