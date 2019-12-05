@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj": {}
+    "D:\\net学习\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj": {}
   },
   "projects": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
         "projectName": "FileAPI",
-        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\FileAPI.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\FileUpAndDownAPI\\FileAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

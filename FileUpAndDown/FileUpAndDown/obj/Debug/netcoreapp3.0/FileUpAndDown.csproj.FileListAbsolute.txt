@@ -665,3 +665,10 @@ D:\2019_hgc\github\_NET-Core_Study\FileUpAndDown\FileUpAndDown\obj\Debug\netcore
 D:\2019_hgc\github\_NET-Core_Study\FileUpAndDown\FileUpAndDown\obj\Debug\netcoreapp3.0\FileUpAndDown.csproj.CopyComplete
 D:\2019_hgc\github\_NET-Core_Study\FileUpAndDown\FileUpAndDown\obj\Debug\netcoreapp3.0\FileUpAndDown.dll
 D:\2019_hgc\github\_NET-Core_Study\FileUpAndDown\FileUpAndDown\obj\Debug\netcoreapp3.0\FileUpAndDown.pdb
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.Mvc.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.Razor.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.Helpers.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.WebPages.Deployment.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.WebPages.Razor.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\System.Web.WebPages.dll
+D:\net学习\_NET-Core_Study\FileUpAndDown\FileUpAndDown\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
