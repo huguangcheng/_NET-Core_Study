@@ -46,12 +46,12 @@ namespace FileUpAndDown.Controllers
             return Redirect("/Default/Index");
         }
         /// <summary>
-        /// 跳转到指定的Action
+        /// 跳转到Default控制器的Index动作方法当中
         /// </summary>
         /// <returns></returns>
         public IActionResult RedirectToActionTest()
         {
-            return RedirectToAction("Default", "Index");
+            return RedirectToAction("Index", "Default");
         }
         /// <summary>
         /// 使用指定的路由值跳转到指定的路由
@@ -85,12 +85,24 @@ namespace FileUpAndDown.Controllers
         {
             string basePath = Directory.GetCurrentDirectory();
             string filePath = Path.Combine(basePath, "wwwroot\\Content\\快乐之歌.mp3");
-            using (var fs=new FileStream(filePath,FileMode.Open,FileAccess.Read))
+            using (var st=new FileStream(filePath,FileMode.Open))//Mode  模式，方式
             {
-                byte[] content = new byte[fs.Length];
-                fs.Read(content, 0, (int)fs.Length);
-                return File(content, "audio/mp3");
+                byte[] content = new byte[st.Length];
+                st.Read(content, 0, content.Length);
+                return File(content, "audio/mp3","快乐之歌.mp3");
             }
+       
+        }
+        /// <summary>
+        /// 使用文件流方式输出文件
+        /// </summary>
+        /// <returns></returns>
+        public IActionResult OutputFileInStream()
+        {
+            string basePath = Directory.GetCurrentDirectory();
+            string filePath = Path.Combine(basePath, "wwwroot\\Content\\快乐之歌.mp3");
+            var fs = new FileStream(filePath, FileMode.Open);
+            return File(fs, "audio/mp3");
         }
         #endregion
 
