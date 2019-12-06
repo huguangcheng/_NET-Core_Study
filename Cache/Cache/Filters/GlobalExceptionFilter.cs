@@ -43,6 +43,12 @@ namespace Cache.Filters
                 $":{strActionName}\r\n【异常类型】:{ex.GetType().Name}\r\n【异常信息" +
                 $"】:{ex.Message}\r\n【堆栈调用】:{ex.StackTrace}";
         }
+        public string SendMessage(string throwMsg, Exception ex, string strControllerName, string strActionName)
+        {
+            return $"\r\n【自定义错误】:{throwMsg}\r\n【异常控制器】:{strControllerName}\r\n【异常方法】" +
+                $":{strActionName}\r\n【异常类型】:{ex.GetType().Name}\r\n【异常信息" +
+                $"】:{ex.Message}\r\n【堆栈调用】:{ex.StackTrace}";
+        }
     }
 
     /// <summary>

@@ -1329,7 +1329,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -2474,7 +2474,7 @@
       ]
     },
     "System.Net.Http/4.1.0": {
-      "sha512": "ULq9g3SOPVuupt+Y3U+A37coXzdNisB1neFCSKzBwo182u0RDddKJF8I5+HfyXqK6OhJPgeoAwWXrbiUXuRDsg==",
+      "sha512": "QxY0x5iEkwaZqjPJC1EoWrjWnDPEcu7nf69tnfOx32BNb3V5cLvHwDOZDC0Vbx6MGGVOpnSHUtP0UY0lvtCvSg==",
       "type": "package",
       "path": "system.net.http/4.1.0",
       "files": [
@@ -4647,23 +4647,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EDZ\\.nuget\\packages\\": {},
+    "C:\\Users\\Maste_king\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj",
+      "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj",
       "projectName": "Util",
-      "projectPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj",
-      "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\obj\\",
+      "projectPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj",
+      "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+      "outputPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

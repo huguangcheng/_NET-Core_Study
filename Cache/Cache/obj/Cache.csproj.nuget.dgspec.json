@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj": {}
+    "D:\\net学习\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj": {}
   },
   "projects": {
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj",
         "projectName": "Cache",
-        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Cache\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\Cache\\Cache\\Cache.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\Cache\\Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\Util.csproj": {
-                "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\Util.csproj"
+              "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\Util.csproj": {
+                "projectPath": "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\Util.csproj"
               }
             }
           }
@@ -86,20 +86,20 @@
         }
       }
     },
-    "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\Util.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\Util.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\Util.csproj",
         "projectName": "Util",
-        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\Util.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\Cache\\Util\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\Util.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\Cache\\Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

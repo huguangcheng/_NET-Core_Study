@@ -3,3 +3,11 @@ C:\Users\EDZ\Desktop\ExceptionLog\Util\bin\Debug\netcoreapp3.0\Util.dll
 C:\Users\EDZ\Desktop\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.csprojAssemblyReference.cache
 C:\Users\EDZ\Desktop\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfoInputs.cache
 C:\Users\EDZ\Desktop\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfo.cs
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\bin\Debug\netcoreapp3.0\Util.deps.json
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\bin\Debug\netcoreapp3.0\Util.dll
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\bin\Debug\netcoreapp3.0\Util.pdb
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.csprojAssemblyReference.cache
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfoInputs.cache
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.AssemblyInfo.cs
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.dll
+D:\net学习\_NET-Core_Study\ExceptionLog\Util\obj\Debug\netcoreapp3.0\Util.pdb

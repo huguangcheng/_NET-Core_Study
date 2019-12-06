@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj": {}
+    "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj",
         "projectName": "ExceptionLog",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\ExceptionLog\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\ExceptionLog\\ExceptionLog.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\ExceptionLog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj": {
-                "projectPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj"
+              "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj": {
+                "projectPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj"
               }
             }
           }
@@ -86,20 +86,20 @@
         }
       }
     },
-    "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj",
         "projectName": "Util",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\Util.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\ExceptionLog\\Util\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\Util.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\ExceptionLog\\Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
