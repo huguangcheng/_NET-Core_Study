@@ -9,6 +9,7 @@
 - ？？运算符_Study ：?的常见用法及??运算符（本知识点讲解在代码中）
 - C#中的LINQ（本知识点无代码）[优雅的LINQ之美](https://mp.weixin.qq.com/s?__biz=MzI3NTY1MTA5NQ==&mid=2247484742&idx=1&sn=7dbacfbc58a2d75b7b9b64d41158c7f3&chksm=eb00ca3edc77432819f2d62ba74cc3a787ccac298d80908a0521e33dfd3a1c5addd26a43fea6&token=1970714713&lang=zh_CN#rd)
 - FileUpAndDown：MVC常见返回类型，文件输出下载部分  [MVC基础之控制器常见返回类型](https://mp.weixin.qq.com/s?__biz=MzI3NTY1MTA5NQ==&mid=2247484883&idx=1&sn=d3395e13c399986b61c83d9aaaef85d3&chksm=eb00caabdc7743bdf6f8707db38a888e12cd6254bded4bf8d80bc4eca9fb39b2cc43a5dd54c3&token=73625816&lang=zh_CN#rd)
+- ExceptionLog：异常日志篇   [使用log4net+控制器异常过滤器实现异常日志记录](https://mp.weixin.qq.com/s?__biz=MzI3NTY1MTA5NQ==&mid=2247484887&idx=1&sn=6e85a31c6b5045ed38c9bad19c40a8f8&chksm=eb00caafdc7743b91efc5cc8395d3086b8123b7bb0786158b6eb56dd36011c1847b04ef9711c&token=1794028482&lang=zh_CN#rd)
 
 
 
