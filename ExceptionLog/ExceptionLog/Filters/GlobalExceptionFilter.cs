@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Util;
+using Newtonsoft.Json;
 
 namespace ExceptionLog.Filters
 {
@@ -14,6 +15,7 @@ namespace ExceptionLog.Filters
         {
             if (!context.ExceptionHandled)//如果错误没有被处理
             {
+                
                 //获取出错的控制器及动作方法
                 string controllerName = context.RouteData.Values["controller"].ToString();
                 string actionName = context.RouteData.Values["action"].ToString();
@@ -26,6 +28,8 @@ namespace ExceptionLog.Filters
                 var data = $"?text=【XXX系统错误】&desp={SendMessage(Message, context.Exception, controllerName, actionName)}";
                 var uri = "http://sc.ftqq.com/【自己的SCKEY】.send";
                 client.GetAsync(uri+data);
+                var json = new { code="500",msg="系统异常，请联系管理员"};
+                var res = JsonConvert.SerializeObject(json);
                 context.ExceptionHandled = true;
             }
         }
