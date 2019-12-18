@@ -8127,11 +8127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI\\IoC_DI.csproj",
+      "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\IoC_DI\\IoC_DI\\IoC_DI.csproj",
       "projectName": "IoC_DI",
-      "projectPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI\\IoC_DI.csproj",
+      "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\IoC_DI\\IoC_DI\\IoC_DI.csproj",
       "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI\\obj\\",
+      "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\IoC_DI\\IoC_DI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8150,8 +8150,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj": {
-              "projectPath": "C:\\Users\\EDZ\\Desktop\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj"
+            "D:\\2019_hgc\\github\\_NET-Core_Study\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj": {
+              "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\IoC_DI\\IoC_DI.IRepository\\IoC_DI.IRepository.csproj"
             }
           }
         }

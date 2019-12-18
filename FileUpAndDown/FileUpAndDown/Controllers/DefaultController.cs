@@ -24,6 +24,10 @@ namespace FileUpAndDown.Controllers
         {
             return View();
         }
+        public DefaultController()
+        {
+            int a = 11; 
+        }
 
         public ActionResult DownLoad()
         {

@@ -15,7 +15,10 @@ namespace FileUpAndDown.Controllers
         {
             return View();
         }
-
+        public StudentController()
+        {
+            int a = 11;
+        }
         /// <summary>
         /// 返回视图
         /// </summary>
