@@ -8,3 +8,13 @@ C:\Users\EDZ\Desktop\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.pdb
 C:\Users\EDZ\Desktop\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.runtimeconfig.json
 C:\Users\EDZ\Desktop\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.runtimeconfig.dev.json
 C:\Users\EDZ\Desktop\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.csprojAssemblyReference.cache
+D:\net学习\_NET-Core_Study\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.deps.json
+D:\net学习\_NET-Core_Study\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.runtimeconfig.json
+D:\net学习\_NET-Core_Study\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.runtimeconfig.dev.json
+D:\net学习\_NET-Core_Study\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.dll
+D:\net学习\_NET-Core_Study\CodeFirst\Model\bin\Debug\netcoreapp3.0\Model.pdb
+D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.csprojAssemblyReference.cache
+D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfoInputs.cache
+D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
+D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.dll
+D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.pdb

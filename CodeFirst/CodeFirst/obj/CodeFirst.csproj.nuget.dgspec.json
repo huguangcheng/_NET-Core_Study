@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {}
+    "D:\\net学习\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
         "projectName": "CodeFirst",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj"
+              "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {
+                "projectPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj"
               }
             }
           }
@@ -48,6 +48,20 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
             }
@@ -74,20 +88,20 @@
         }
       }
     },
-    "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj": {
+    "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\obj\\",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
