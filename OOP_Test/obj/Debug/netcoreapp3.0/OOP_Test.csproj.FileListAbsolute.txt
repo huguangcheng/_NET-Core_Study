@@ -1,0 +1,11 @@
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.exe
+D:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.deps.json
+D:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.runtimeconfig.json
+D:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.runtimeconfig.dev.json
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.dll
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\bin\Debug\netcoreapp3.0\OOP_Test.pdb
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\obj\Debug\netcoreapp3.0\OOP_Test.csprojAssemblyReference.cache
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\obj\Debug\netcoreapp3.0\OOP_Test.AssemblyInfoInputs.cache
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\obj\Debug\netcoreapp3.0\OOP_Test.AssemblyInfo.cs
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\obj\Debug\netcoreapp3.0\OOP_Test.dll
+d:\2019_hgc\github\_NET-Core_Study\OOP_Test\obj\Debug\netcoreapp3.0\OOP_Test.pdb
