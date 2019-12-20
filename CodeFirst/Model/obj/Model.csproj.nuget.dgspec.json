@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj": {}
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\obj\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

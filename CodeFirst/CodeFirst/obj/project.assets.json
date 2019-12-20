@@ -4858,11 +4858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "projectName": "CodeFirst",
-      "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\CodeFirst\\obj\\",
+      "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4881,8 +4881,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\EDZ\\Desktop\\CodeFirst\\Model\\Model.csproj"
+            "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {
+              "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj"
             }
           }
         }
