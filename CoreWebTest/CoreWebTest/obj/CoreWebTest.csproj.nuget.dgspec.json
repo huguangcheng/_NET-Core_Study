@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EDZ\\Desktop\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj": {}
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EDZ\\Desktop\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj": {
+    "D:\\2019_hgc\\github\\_NET-Core_Study\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj",
+        "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj",
         "projectName": "CoreWebTest",
-        "projectPath": "C:\\Users\\EDZ\\Desktop\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj",
+        "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CoreWebTest\\CoreWebTest\\CoreWebTest.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDZ\\Desktop\\CoreWebTest\\CoreWebTest\\obj\\",
+        "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CoreWebTest\\CoreWebTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

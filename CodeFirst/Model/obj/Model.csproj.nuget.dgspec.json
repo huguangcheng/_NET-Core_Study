@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
         "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\CodeFirst\\Model\\obj\\",
+=======
+    "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {}
+  },
+  "projects": {
+    "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+        "outputPath": "D:\\net学习\\_NET-Core_Study\\CodeFirst\\Model\\obj\\",
+>>>>>>> bde88f7fe071063c719b7d6acd349d9fb276311b
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
