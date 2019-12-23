@@ -22,6 +22,16 @@ namespace CoreWebTest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //多例式transient   每次请求都是实例化的一个全新的对象。
+            services.AddTransient<IService,MyService>();
+            //每次请求，范围式。每次请求进来，都会判断是否是同一个httpcontext，
+            //第一次请求，它会IA a=new A（）；并将其缓存下来
+            //之后的请求，若是同一个httpcontext，那么它依然会返回这个a
+            //services.AddScoped<IService, MyService>();
+            //单例模式  只要皇帝不死，太子一直是太子！
+            //只要服务器不嗝屁，请求获取的对象一直是a
+            //services.AddSingleton<IService, MyService>();
+
             services.AddControllersWithViews();
         }
 

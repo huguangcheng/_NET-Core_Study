@@ -12,15 +12,16 @@ namespace CoreWebTest.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IService _service;
+        public HomeController(ILogger<HomeController> logger,IService service)
         {
             _logger = logger;
+            _service = service;
         }
 
-        public IActionResult Index()
+        public IActionResult Index()           
         {
-            return View();
+            return View(model:_service.GetGuid());
         }
 
         public IActionResult Privacy()
