@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Combobox</title>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+    </script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div>
+        <select id="ComboboxItem">
+            <option selected="selected">请选择</option>
+        </select>
+    </div>
+</body>
+</html>
+<script>
+    $(function () {
+        axios.get('/Demo/GetSelectItems').then(function (response) {
+            for (var i in response.data) {
+                $('#ComboboxItem').append("<option value=" + response.data[i].Value + ">" + response.data[i].Text + "</option>");
+            }
+        });
+    })
+</script>
