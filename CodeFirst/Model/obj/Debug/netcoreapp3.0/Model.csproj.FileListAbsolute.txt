@@ -18,3 +18,7 @@ D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.Assem
 D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
 D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.dll
 D:\net学习\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.pdb
+D:\2019_hgc\github\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfoInputs.cache
+D:\2019_hgc\github\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.AssemblyInfo.cs
+D:\2019_hgc\github\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.dll
+D:\2019_hgc\github\_NET-Core_Study\CodeFirst\Model\obj\Debug\netcoreapp3.0\Model.pdb
