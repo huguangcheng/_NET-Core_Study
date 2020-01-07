@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\test\\test.csproj",
+      "projectUniqueName": "D:\\2019_hgc\\github\\_NET-Core_Study\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\EDZ\\Desktop\\test\\test.csproj",
+      "projectPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\test\\test.csproj",
       "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EDZ\\Desktop\\test\\obj\\",
+      "outputPath": "D:\\2019_hgc\\github\\_NET-Core_Study\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

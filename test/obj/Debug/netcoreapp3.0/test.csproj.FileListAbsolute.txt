@@ -20,3 +20,14 @@ c:\Users\EDZ\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
 c:\Users\EDZ\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
 c:\Users\EDZ\Desktop\test\obj\Debug\netcoreapp3.0\test.dll
 c:\Users\EDZ\Desktop\test\obj\Debug\netcoreapp3.0\test.pdb
+d:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.exe
+D:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.deps.json
+D:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+D:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+d:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.dll
+d:\2019_hgc\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.pdb
+d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.dll
+d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.pdb

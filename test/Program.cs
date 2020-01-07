@@ -1,7 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using System.Diagnostics;
+
+//diagnostics  诊断
 namespace test
 {
     class Program
@@ -54,6 +56,50 @@ namespace test
         {
             System.Console.WriteLine(item);
         }
+        //大量的操作字符串，会造成大量的内存浪费，这个时候建议使用StringBuilder
+        StringBuilder stringBuilder=new StringBuilder();
+        string str=null;
+        //创建了一个计时器，用来记录程序运行的时间
+        Stopwatch sw=new Stopwatch ();
+        sw.Start();//开始计时
+        for (int i = 0; i < 100000; i++)
+        {
+            // str+=i;//00:00:12.1689092
+            stringBuilder.Append(i);//00:00:00.0051262
+        }
+        sw.Stop();//结束计时
+        System.Console.WriteLine(sw.Elapsed);//elapsed (时间)消逝，逝去
+        string name1="C#";
+        string name2="c#";
+
+        //StringComparison.OrdinalIgnoreCase忽略大小写
+        if (name1.Equals(name2,StringComparison.OrdinalIgnoreCase))
+        {
+            System.Console.WriteLine("ok");
+        }
+
+        //分割字符串Split
+        string ss="a _ ? +=s ccdf";
+        char[] chr={' ','_','+','=','?'};
+
+        string[] str11=ss.Split(chr,StringSplitOptions.RemoveEmptyEntries);
+        ss=string.Join(string.Empty,str11.Select(a=>a));
+        System.Console.WriteLine(ss);
+
+        //将2020-1-7输出2020年1月7日
+        string date="2020-1-7";
+
+        //StringSplitOptions.RemoveEmptyEntries  移除空字符串
+        string[] chardate=date.Split('-',StringSplitOptions.RemoveEmptyEntries);
+        System.Console.WriteLine($"{chardate[0]}年{chardate[1]}月{chardate[2]}日");
+
+
+        string ss2="国家关键人物习近平";
+        if (ss2.Contains("习近平"))
+        {
+            ss2=ss2.Replace("习近平","***");
+        }
+        System.Console.WriteLine(ss2);
         }
     }
 

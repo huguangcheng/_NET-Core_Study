@@ -126,7 +126,35 @@ s=new string(cha);
 
 对于执行大量字符串操作的过程（如在循环中多次修改字符串的应用程序），重复修改字符串可能会显著降低性能。替代方法是使用StringBuilder，这是一个可变字符串类
 
-视频：字符串的方法看到：11:06
+
+
+10.
+1.ToCharArray()  将字符串转换为字符数组
+new string（char[] chs） 将char数组转换为字符串
+
+2.一切类型都可以调用ToString()方法转换成字符串类型。
+
+3.字符串提供各种方法
+
+（1）Length  获得当前字符串的长度
+
+（2）ToUpper 将字符串转换为大写格式
+
+（3）ToLower 将字符串转换为小写格式
+
+（4）Equals（name2,StringComparison.OrdinalIgnoreCase）比较两个字符串，可以忽略大小写
+
+
+（5）字符串的分割：
+Split():返回字符串类型的数组
+string[] chardate=date.Split('-',StringSplitOptions.RemoveEmptyEntries);
+string[] str11=ss.Split(new char[]{'-'},StringSplitOptions.RemoveEmptyEntries);
+（6）字符串替换：
+ss2=ss2.Replace("习近平","***");
+
+
+
+
 
 
 
