@@ -2,7 +2,7 @@
 
 namespace Sep.Common
 {
-    public static  class StringExtension
+    public static class StringExtension
     {
         /// <summary>
         /// 求oldstr字符串中出现newstr字符串的次数

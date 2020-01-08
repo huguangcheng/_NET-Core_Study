@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\EDZ\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Maste_king\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Common\\Sep.Common.csproj",
+      "projectUniqueName": "E:\\net\\github\\_NET-Core_Study\\Sep.Core\\Sep.Common\\Sep.Common.csproj",
       "projectName": "Sep.Common",
-      "projectPath": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Common\\Sep.Common.csproj",
-      "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Common\\obj\\",
+      "projectPath": "E:\\net\\github\\_NET-Core_Study\\Sep.Core\\Sep.Common\\Sep.Common.csproj",
+      "packagesPath": "C:\\Users\\Maste_king\\.nuget\\packages\\",
+      "outputPath": "E:\\net\\github\\_NET-Core_Study\\Sep.Core\\Sep.Common\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maste_king\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

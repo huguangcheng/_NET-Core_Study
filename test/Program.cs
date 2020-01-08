@@ -45,9 +45,8 @@ namespace test
         //如何将字符串“Hello World”变成"World Hello并输出？"
         string str1="Hello World";
         string[] arr=str1.Split(' ').Reverse().ToArray();
-        string str2=string.Join(' ',arr);
+        str1=string.Join(' ',arr);
         System.Console.WriteLine(str1);
-        System.Console.WriteLine(str2);
 
 
         string[] test=new string[]{"1","2"};

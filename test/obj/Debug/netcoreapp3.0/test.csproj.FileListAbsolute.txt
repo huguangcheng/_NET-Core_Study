@@ -31,3 +31,14 @@ d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInf
 d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
 d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.dll
 d:\2019_hgc\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.pdb
+e:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.exe
+E:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.deps.json
+E:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+E:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+e:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.dll
+e:\net\github\_NET-Core_Study\test\bin\Debug\netcoreapp3.0\test.pdb
+e:\net\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+e:\net\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+e:\net\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+e:\net\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.dll
+e:\net\github\_NET-Core_Study\test\obj\Debug\netcoreapp3.0\test.pdb
