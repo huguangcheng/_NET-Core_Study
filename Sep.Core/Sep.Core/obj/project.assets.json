@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sep.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Sep.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sep.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sep.Common/1.0.0": {
+      "type": "project",
+      "path": "../Sep.Common/Sep.Common.csproj",
+      "msbuildProject": "../Sep.Common/Sep.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Sep.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\EDZ\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Core\\Sep.Core.csproj",
+      "projectName": "Sep.Core",
+      "projectPath": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Core\\Sep.Core.csproj",
+      "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Common\\Sep.Common.csproj": {
+              "projectPath": "C:\\Users\\EDZ\\Desktop\\Sep.Core\\Sep.Common\\Sep.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

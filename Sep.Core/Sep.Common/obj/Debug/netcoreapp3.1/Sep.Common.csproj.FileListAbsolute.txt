@@ -1,0 +1,7 @@
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\bin\Debug\netcoreapp3.1\Sep.Common.deps.json
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\bin\Debug\netcoreapp3.1\Sep.Common.dll
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\bin\Debug\netcoreapp3.1\Sep.Common.pdb
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\obj\Debug\netcoreapp3.1\Sep.Common.AssemblyInfoInputs.cache
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\obj\Debug\netcoreapp3.1\Sep.Common.AssemblyInfo.cs
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\obj\Debug\netcoreapp3.1\Sep.Common.dll
+C:\Users\EDZ\Desktop\Sep.Core\Sep.Common\obj\Debug\netcoreapp3.1\Sep.Common.pdb

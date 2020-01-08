@@ -78,7 +78,7 @@ namespace test
             System.Console.WriteLine("ok");
         }
 
-        //分割字符串Split
+        //分割字符串Split  返回字符串数组
         string ss="a _ ? +=s ccdf";
         char[] chr={' ','_','+','=','?'};
 
@@ -100,6 +100,55 @@ namespace test
             ss2=ss2.Replace("习近平","***");
         }
         System.Console.WriteLine(ss2);
+
+        //SubString 截取字符串
+        string ss3="好春光，不如梦一场";
+        ss3=ss3.Substring(1,4);//从索引为1的开始，截取4个
+        System.Console.WriteLine(ss3);
+        if (ss3.EndsWith("春光"))
+        {
+            System.Console.WriteLine("是的");
+        }
+        else
+        {
+            System.Console.WriteLine("不是的");
+        }
+        //IndexOf 判断字符串出现的位置
+        string ss4="今天天气很天天都很好";
+        int index=ss4.IndexOf("天");
+        System.Console.WriteLine(index);
+
+        //求出字符串中含有该字符的次数
+        int appearCount=ss4.Split("天").Length-1;
+        System.Console.WriteLine(appearCount);
+
+        //LastIndexOf Substring
+        string path=@"c:\scd\c\cd\dc\dcee\ce\苍老师.avi";
+        int index2=path.LastIndexOf("\\");
+        path=path.Substring(index2+1);
+        System.Console.WriteLine(path);
+
+        //去除空格
+        string str44="   wded   ";
+        str44=str44.Trim();
+        System.Console.WriteLine(str44);
+        
+
+        string str55=string.Empty;//null //""
+        //IsNullOrEmpty也可以
+        if (string.IsNullOrWhiteSpace(str55))
+        {
+            System.Console.WriteLine("为空");
+        }
+
+        //Join
+        string[] name={"张三","李四","王五"};
+        string name3=string.Join('|',name);
+        System.Console.WriteLine(name3);
+
+        string s1="bca";
+        s1=new string(s1.Reverse().ToArray());
+        System.Console.WriteLine(s1);
         }
     }
 

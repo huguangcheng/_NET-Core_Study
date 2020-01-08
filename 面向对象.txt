@@ -146,11 +146,52 @@ new string（char[] chs） 将char数组转换为字符串
 
 
 （5）字符串的分割：
+
 Split():返回字符串类型的数组
+
 string[] chardate=date.Split('-',StringSplitOptions.RemoveEmptyEntries);
+
 string[] str11=ss.Split(new char[]{'-'},StringSplitOptions.RemoveEmptyEntries);
+
+求出字符串中含有该字符的次数
+
+int appearCount=ss4.Split("天").Length-1;
+
 （6）字符串替换：
+
 ss2=ss2.Replace("习近平","***");
+
+（7）截取字符串：Substring
+string ss3="好春光，不如梦一场";
+ss3=ss3.Substring(1,4);//从索引为1的开始，截取4个（包含索引为1的）
+
+（8）IndexOf（）判断字符串第一次出现的位置，如果没有，返回-1
+
+LastIndexOf()  判断字符串最后一次出现的位置
+
+IndexOf +Substring
+
+	string path=@"c:\scd\c\cd\dc\dcee\ce\苍老师.avi";
+        int index2=path.LastIndexOf("\\");
+        path=path.Substring(index2+1);  \\苍老师.avi
+
+(9)去除空格  str.Trim()  TrimEnd()   TrimStart()
+
+(10)判断是否为空    
+IsNullOrEmpty  IsNullOrWhiteSpace
+string.Empty,"",null  都满足条件
+
+（11）string.Join
+	string[] name={"张三","李四","王五"};
+        string name3=string.Join('|',name);
+	张三|李四|王五
+
+
+（12）StringBuilder 和String的区别
+String在进行运算时（如赋值、拼接等）会产生一个新的实例，而StringBuilder则不会。所以在大量字符串拼接或频繁对某一字符串进行操作时最好使用StringBuilder，不适用string
+
+
+
 
 
 
